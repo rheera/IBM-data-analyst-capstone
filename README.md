@@ -39,13 +39,13 @@ For the final task, we will use our storytelling skills to provide a narrative a
 - [Data Description](#data-description)
 - [Tools](#tools)
 - [Deliverables](#deliverables)
-  - [Part 1 - Analyzing the wildfire activities in Australia](#part-1---analyzing-the-wildfire-activities-in-australia)
-  - [Part 2 - Dashboard to display charts based on selected Region and Year](#part-2---dashboard-to-display-charts-based-on-selected-region-and-year)
-  - [Part 3 - Analyzing the Impact of Recession on Automobile Sales](#part-3---analyzing-the-impact-of-recession-on-automobile-sales)
-    - [Task 1 - Create visualizations using Matplotib, Seaborn & Folium](#task-1---create-visualizations-using-matplotib-seaborn--folium)
-    - [Task 2 - Create a Dashboard using Plotly and Dash](#task-2---create-a-dashboard-using-plotly-and-dash)
+  - [Task 1: Data Collection](#task-1-data-collection)
+  - [Task 2: Data Wrangling](#task-2-data-wrangling)
+  - [Task 3: Exploratory Data Analysis](#task-3-exploratory-data-analysis)
+  - [Task 4: Data Visualization](#task-4-data-visualization)
+  - [Task 5: Dashboard Creation](#task-5-dashboard-creation)
+  - [Task 6: Presentation of Findings](#task-6-presentation-of-findings)
 - [Stretch Goals](#stretch-goals)
-- [Dashboard Demo](#dashboard-demo)
 
 ## Data Description
 
