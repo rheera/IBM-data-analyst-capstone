@@ -65,8 +65,8 @@ For the final task, we will use our storytelling skills to provide a narrative a
 
 ### Task 1: Data Collection
 
-- [ ] Collecting Data Using APIs
-- [ ] Collecting Data Using Web Scraping
+- [x] Collecting Data Using APIs
+- [x] Collecting Data Using Web Scraping
 - [ ] Exploring Data
 
 ### Task 2: Data Wrangling

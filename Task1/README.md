@@ -1,4 +1,6 @@
-## Task 1
+# Task 1
+
+## Gather Data Using APIs
 
 Our assignment is to get the number of job openings using the GitHub Jobs API for technologies like:
 
@@ -70,3 +72,14 @@ Examples
 https://jobs.github.com/positions/21516.json
 
 https://jobs.github.com/positions/21516.json?markdown=true
+
+## Gather Data Using Web Scraping
+
+Gather Average Salary Information from this website: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html
+
+The data we need to scrape is the name of the programming language and average annual salary.
+
+- Extract information from a given web site
+- Write the scraped data into a csv file.
+
+## Exploring Data
