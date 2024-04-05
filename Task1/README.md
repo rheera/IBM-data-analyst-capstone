@@ -83,3 +83,9 @@ The data we need to scrape is the name of the programming language and average a
 - Write the scraped data into a csv file.
 
 ## Exploring Data
+
+Goals:
+
+- Load the dataset that will be used throughout the capstone project.
+- Explore the dataset.
+- Get familier with the data types.
