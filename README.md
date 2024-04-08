@@ -610,15 +610,15 @@ The below table lists the questions asked in the survey and the column under whi
 
 - [x] Collecting Data Using APIs
 - [x] Collecting Data Using Web Scraping
-- [ ] Exploring Data
+- [x] Exploring Data
 
 ### Task 2: Data Wrangling
 
-- [ ] Finding Missing Values
-- [ ] Determine Missing Values
-- [ ] Finding Duplicates
-- [ ] Removing Duplicates
-- [ ] Normalizing Data
+- [x] Finding Missing Values
+- [x] Determine Missing Values
+- [x] Finding Duplicates
+- [x] Removing Duplicates
+- [x] Normalizing Data
 
 ### Task 3: Exploratory Data Analysis
 
