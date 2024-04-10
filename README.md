@@ -24,7 +24,7 @@ Now that the data is ready we will apply statistical techniques to analyze the d
 
 ### Task 4
 
-In the fourth task, we'll focus on choosing appropriate visualizations based on the data we want to present using charts, plots, and histograms to help reveal our findings and trends.
+In the fourth task, we'll focus on choosing appropriate visualizations based on the data we want to present using charts, plots, and histograms to help reveal our findings and trends. We are going to access the Data from an SQL database and pull only the data we need into DataFrames.
 
 ### Task 5
 
